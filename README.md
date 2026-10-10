@@ -16,8 +16,7 @@ Built for Monad Blitz Pune V3.
 | **Contract source (verified)** | [Monadscan, Code tab](https://testnet.monadscan.com/address/0x9c7329760ad4c4b43880672c7691b7ffa9ef2ad6#code) |
 | **Network** | Monad Testnet, chain ID `10143` |
 | **Deployment** | Frontend on Vercel, smart contract on Monad Testnet |
-| **Demo video** | _add link_ |
-| **Launch post** | _add link_ |
+| **Demo video** | https://drive.google.com/file/d/1PDj_4Pma1EzGbOcx6HhxcZ1LcT2iNbgb/view?usp=drive_link |
 
 ## The problem
 
